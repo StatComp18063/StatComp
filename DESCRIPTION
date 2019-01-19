@@ -1,0 +1,17 @@
+Package: StatComp18063
+Type: Package
+Title: Homework for 'Statistical Computing' course
+Version: 0.1.0
+Author: 18063
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: the package include  three functions and all homework for 18063.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Imports:lattice, microbenchmark,bootstrap,boot,MASS,DAAG
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.1
+URL: https://github.com/StatComp18063/StatComp
+BugReports:https://github.com/StatComp18063/StatComp/issues
+
